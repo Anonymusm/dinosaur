@@ -83,6 +83,10 @@ a:hover {
   line-height: 1.6;
 }
 
+.footer-title {
+    text-align: center;
+}
+
 .footer-wrapper {
   text-align: center;
   width: 100%;
